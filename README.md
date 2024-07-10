@@ -5,5 +5,7 @@ Developed a robust movie streaming platform utilizing React and Tailwind CSS, wi
 Deployed Link - https://streamsavvy.netlify.app/
 
 To run the code, install the node_modules
+
 Run the command - **npm install**
+
 After installation, run **npm run dev**
